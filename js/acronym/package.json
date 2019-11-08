@@ -70,5 +70,7 @@
     }
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "yarn": "^1.19.1"
+  }
 }
